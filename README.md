@@ -31,3 +31,5 @@ Test Accuracy: 0.7756410241127014
 
 
 <h3>The model has achieved a validation accuracy of 90.625% </h3>
+
+<h3>The model has been saved at the end as pneumonia.h5</h3>
