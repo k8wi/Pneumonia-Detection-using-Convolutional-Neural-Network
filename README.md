@@ -17,9 +17,13 @@ This project aims to develop a CNN model to detect pneumonia in chest X-rays. Th
 The dataset is taken from kaggle and is organized into 3 folders (train, test, val) and contains subfolders for each image category (Pneumonia/Normal). There are 5,863 X-Ray images (JPEG) and 2 categories (Pneumonia/Normal).
 
 # CNN Model metrics
+
 Validation Loss: 0.19544562697410583
+
 Validation Accuracy: 0.90625
+
 Test Loss: 0.5251447558403015
+
 Test Accuracy: 0.7756410241127014
 
-The model has achieved a validation accuracy of #90.625% 
+The model has achieved a validation accuracy of 90.625% 
