@@ -6,9 +6,9 @@ Chest X-rays are the most common way to diagnose pneumonia. However, reading che
 ![IM-0125-0001-min](https://github.com/k8wi/Pneumonia-Detection-using-Convolutional-Neural-Network/assets/95972832/68d76d30-7e8f-443a-a8bb-c1328a7c7f0f)
 
 
-This project aims to develop a CNN model to detect pneumonia in chest X-rays. The model will be trained on a large dataset of chest X-rays that have been labeled by radiologists. Once the model is trained, it can be used to automatically detect pneumonia in new chest X-rays.
+# This project aims to develop a CNN model to detect pneumonia in chest X-rays. The model will be trained on a large dataset of chest X-rays that have been labeled by radiologists. Once the model is trained, it can be used to automatically detect pneumonia in new chest X-rays.
 
-The objectives of this project are to:
+# The objectives of this project are to:
 
 Develop a CNN model to detect pneumonia in chest X-rays with high accuracy and sensitivity.
 Evaluate the performance of the model on a held-out test set.
