@@ -26,4 +26,8 @@ Test Loss: 0.5251447558403015
 
 Test Accuracy: 0.7756410241127014
 
+![cc1](https://github.com/k8wi/Pneumonia-Detection-using-Convolutional-Neural-Network/assets/95972832/976d450e-34bb-4d40-a7ee-fac8f5012fdf)
+![cc2](https://github.com/k8wi/Pneumonia-Detection-using-Convolutional-Neural-Network/assets/95972832/178ecbd5-7e03-403e-9700-a773ff8e4824)
+
+
 <h3>The model has achieved a validation accuracy of 90.625% </h3>
