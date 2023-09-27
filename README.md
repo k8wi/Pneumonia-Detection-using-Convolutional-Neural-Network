@@ -11,6 +11,7 @@ This project aims to develop a CNN model to detect pneumonia in chest X-rays. Th
 # The objectives of this project are to:
 
 1.Develop a CNN model to detect pneumonia in chest X-rays with high accuracy and sensitivity.
+
 2.Evaluate the performance of the model on a held-out test set.
 
 # Dataset
